@@ -1,2 +1,2 @@
 # projeto-calculadora-web
-Um projeto básico com a finalidade de relembrar o uso do HTML, CSS e JavaScript
+Este projeto tem a finalidade de criar uma calculadora básica, capaz de realizar a quatro operações matemáticas: Adição, Subtração, Multiplicação e Divisão, utilizando HTML, CSS e JavaScript
