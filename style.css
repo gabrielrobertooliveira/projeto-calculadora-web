@@ -1,0 +1,61 @@
+/*body*/
+body{
+    margin: 0;
+    padding-top: 10%;
+}
+
+/*Interface*/
+.interface{
+    /*background-color: gray;*/
+    height: 100%;
+    max-width: min-content;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    
+    position: relative;
+    left: 45%;
+
+    border: solid;
+}
+
+/*Título*/
+h2{ 
+    /*background-color: orange; */
+    margin-bottom: 3%;
+}
+
+/*Campo de texto*/
+.inp{
+    margin-bottom: 3%;
+}
+
+/* grupo dos botões*/
+.gp-botoes{
+    /*background-color: blue;*/
+    display: flex;
+
+    justify-content: center;
+}
+
+/*Botões dos números*/
+.numeros{
+    /*background-color: green;*/
+    width: 50%;    
+
+    
+
+}
+/*Botões das operações*/
+.btn-operacoes{
+    /*background-color: orange;*/
+    padding-top: 5%;
+
+    width: 50%;
+}
+
+/*botão do resultado*/
+#btn-resultado{
+     width: 90%;
+}
